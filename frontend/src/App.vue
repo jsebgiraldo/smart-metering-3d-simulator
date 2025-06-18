@@ -14,8 +14,7 @@ import ThreeTraffic from './components/ThreeTraffic.vue';
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
-  <ThreeManizales />
+  <ThreeTraffic />
 </template>
 
 <style scoped>
