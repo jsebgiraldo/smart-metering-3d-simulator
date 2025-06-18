@@ -1,0 +1,25 @@
+{
+  "name": "smart-metering-3d-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node src/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsebgiraldo/smart-metering-3d-simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jsebgiraldo/smart-metering-3d-simulator/issues"
+  },
+  "homepage": "https://github.com/jsebgiraldo/smart-metering-3d-simulator#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
