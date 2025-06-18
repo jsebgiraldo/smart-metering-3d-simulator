@@ -1,5 +1,8 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
+import ThreeManizales from './components/ThreeManizales.vue';
+import ThreeScene from './components/ThreeScene.vue';
+import ThreeTraffic from './components/ThreeTraffic.vue';
 </script>
 
 <template>
@@ -12,6 +15,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <ThreeManizales />
 </template>
 
 <style scoped>
